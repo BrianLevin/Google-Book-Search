@@ -2,7 +2,7 @@
 
 ## Application description:
 
- React-based Google Books Search app that allows users to search, save, and delete books based off of googles api book search. I create React components, worked with helper/util functions, and utilized React lifecycle methods to query and display books based on user searches. You'll also use Node, Express and MongoDB so that users can save books to review or purchase later
+ React-based Google Books Search app that allows users to search, save, and delete books based off of googles api book search. I created React components, worked with util functions, and utilized React lifecycle methods to query and display books based on user searches. I used Node, Express and MongoDB so that users can save books to review or purchase later.
  
 
  ## Click [here](https://google-book-search-app-finder.herokuapp.com/) for the live app. 
